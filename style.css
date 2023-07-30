@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: rgb(255, 248, 156);
+}
+
+.entorno{
+    margin: 300px 50px 0px 50px;
+    background-color: rgb(20, 21, 22);
+    max-width: 50rem;
+}
+
+.elipsis{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
